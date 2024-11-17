@@ -19,6 +19,8 @@
 
 ### `P07`: The geometry of musical rhythm
 
+Toussaint, Godfried T. *[The Geometry of Musical Rhythm : What Makes a “Good” Rhythm Good?](https://search.worldcat.org/title/1112377436)* Second edition, CRC Press, Taylor & Francis Group, 2020.
+
 | Pattern | Name      | Reference |
 |---------|-----------|-----------|
 | `A01`   | clave son | Fig. 6.2  |
@@ -48,3 +50,5 @@
 	- [Signal](https://signal.vercel.app/) online MIDI editor
 - Sheet music
 	- [MuseScore](https://musescore.com/)
+ - Tutorials
+	- [Teenage engineering KO II EP-133 - Deep dive tutorial guide](https://youtu.be/czGfzmni7q4)
