@@ -1,0 +1,8 @@
+tmp/
+*.tmp
+*.log
+*.sw?
+.obsidian/
+Dirt-Samples/
+backups/
+samples/
