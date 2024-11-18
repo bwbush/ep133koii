@@ -3,6 +3,8 @@
 
 ## Programs
 
+Backups at [ipns://k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42ej](http://ipfs.io/ipns/k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42ej).
+
 
 ### `P06`: Early music
 
@@ -21,19 +23,12 @@
 
 Toussaint, Godfried T. *[The Geometry of Musical Rhythm : What Makes a “Good” Rhythm Good?](https://search.worldcat.org/title/1112377436)* Second edition, CRC Press, Taylor & Francis Group, 2020.
 
-![Six distinguished rhythmic timelimes](https://www.tandfonline.com/cms/asset/7e010a64-dcf6-4655-b15c-a914906006cf/tmam_a_2025625_f0001_ob.jpg)
-
-| Pattern | Name       | Reference |
-|---------|------------|-----------|
-| `A01`   | Shiko      | Fig. 7.2  |
-| `A02`   | Son        | Fig. 6.2  |
-| `A03`   | Soukous    | Fig. 7.4  |
-| `A04`   | Rumba      | Fig. 7.3  |
-| `A05`   | Bossa-nova | Fig. 7.6  |
-| `A06`   | Gahu       | Fig. 7.5  |
-| `A07`   | Fume-fume  | Fig. 10.1 |
-| `A08`   | Bembé      | Fig. 10.2 |
-| `A09`   | Kéné foli  | Fig. 11.4 |
+| Pattern | Name       | Reference | Timeline                                       |     | Pattern | Name  | Reference | Timeline                            |
+| ------- | ---------- | --------- | ---------------------------------------------- | --- | ------- | ----- | --------- | ----------------------------------- |
+| `A01`   | Shiko      | Fig. 7.2  | ![Shiko timeline](images/shiko.png)            |     | `A02`   | Son   | Fig. 6.2  | ![Son timeline](images/son.png)     |
+| `A03`   | Soukous    | Fig. 7.4  | ![Soukous timeline](images/soukous.png)        |     | `A04`   | Rumba | Fig. 7.3  | ![Rumba timeline](images/rumba.png) |
+| `A05`   | Bossa-nova | Fig. 7.6  | ![Bossa-nova timeline](images/bossa-nova.png)] |     | `A06`   | Gahu  | Fig. 7.5  | ![Gahu timeline](images/gahu.png)   |
+| `A07`   | Fume-fume  | Fig. 10.1 | ![Fume-fume timeline](images/fume-fume.png)    |     | `A08`   | Bembé | Fig. 10.2 | ![Bembé timeline](images/bembe.png) |
 
 
 ## Reference
@@ -53,12 +48,12 @@ Toussaint, Godfried T. *[The Geometry of Musical Rhythm : What Makes a “Good�
 ## Resources
 
 - Teenage Engineering
-	- [Update utility](https://teenage.engineering/apps/update)
-	- [Sample tool](https://teenage.engineering/apps/ep-sample-tool)
-	- [EP-133 guide](https://teenage.engineering/guides/ep-133)
+    - [Update utility](https://teenage.engineering/apps/update)
+    - [Sample tool](https://teenage.engineering/apps/ep-sample-tool)
+    - [EP-133 guide](https://teenage.engineering/guides/ep-133)
 - Tools
-	- [Signal](https://signal.vercel.app/) online MIDI editor
+    - [Signal](https://signal.vercel.app/) online MIDI editor
 - Sheet music
-	- [MuseScore](https://musescore.com/)
+    - [MuseScore](https://musescore.com/)
  - Tutorials
-	- [Teenage engineering KO II EP-133 - Deep dive tutorial guide](https://youtu.be/czGfzmni7q4)
+    - [Teenage engineering KO II EP-133 - Deep dive tutorial guide](https://youtu.be/czGfzmni7q4)
