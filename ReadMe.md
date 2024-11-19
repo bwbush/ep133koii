@@ -24,12 +24,12 @@ Backups at [ipns://k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42e
 
 Toussaint, Godfried T. *[The Geometry of Musical Rhythm : What Makes a “Good” Rhythm Good?](https://search.worldcat.org/title/1112377436)* Second edition, CRC Press, Taylor & Francis Group, 2020.
 
-| Pattern | Name                              | Reference | Timeline                                       |     | Pattern | Name                    | Reference | Timeline                            |
-|---------|-----------------------------------|-----------|------------------------------------------------|-----|---------|-------------------------|-----------|-------------------------------------|
-| `A01`   | [Shiko](midi/shiko.mid)           | Fig. 7.2  | ![Shiko timeline](images/shiko.png)            |     | `A02`   | [Son](midi/son.mid)     | Fig. 6.2  | ![Son timeline](images/son.png)     |
-| `A03`   | [Soukous](midi/soukous.mid)       | Fig. 7.4  | ![Soukous timeline](images/soukous.png)        |     | `A04`   | [Rumba](midi/rumba.mid) | Fig. 7.3  | ![Rumba timeline](images/rumba.png) |
-| `A05`   | [Bossa-nova](midi/bossa-nova.mid) | Fig. 7.6  | ![Bossa-nova timeline](images/bossa-nova.png)] |     | `A06`   | [Gahu](midi/gahu.mid)   | Fig. 7.5  | ![Gahu timeline](images/gahu.png)   |
-| `A07`   | [Fume-fume](midi/fume-fume.mid)   | Fig. 10.1 | ![Fume-fume timeline](images/fume-fume.png)    |     | `A08`   | [Bembé](midi/bembe.mid) | Fig. 10.2 | ![Bembé timeline](images/bembe.png) |
+| Pattern | Name                              | Reference | Timeline                                      |     | Pattern | Name                    | Reference | Timeline                            |
+|---------|-----------------------------------|-----------|-----------------------------------------------|-----|---------|-------------------------|-----------|-------------------------------------|
+| `A01`   | [Shiko](midi/shiko.mid)           | Fig. 7.2  | ![Shiko timeline](images/shiko.png)           |     | `A02`   | [Son](midi/son.mid)     | Fig. 6.2  | ![Son timeline](images/son.png)     |
+| `A03`   | [Soukous](midi/soukous.mid)       | Fig. 7.4  | ![Soukous timeline](images/soukous.png)       |     | `A04`   | [Rumba](midi/rumba.mid) | Fig. 7.3  | ![Rumba timeline](images/rumba.png) |
+| `A05`   | [Bossa-nova](midi/bossa-nova.mid) | Fig. 7.6  | ![Bossa-nova timeline](images/bossa-nova.png) |     | `A06`   | [Gahu](midi/gahu.mid)   | Fig. 7.5  | ![Gahu timeline](images/gahu.png)   |
+| `A07`   | [Fume-fume](midi/fume-fume.mid)   | Fig. 10.1 | ![Fume-fume timeline](images/fume-fume.png)   |     | `A08`   | [Bembé](midi/bembe.mid) | Fig. 10.2 | ![Bembé timeline](images/bembe.png) |
 
 
 ## Reference
