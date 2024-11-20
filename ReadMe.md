@@ -34,12 +34,16 @@ Toussaint, Godfried T. *[The Geometry of Musical Rhythm : What Makes a â€œGoodâ€
 
 ## Reference
 
-| Function       | Keys                                        |
-| -------------- | ------------------------------------------- |
-| Time signature | press `MAIN` + `TEMP` then turn `x` and `y` |
-| Pattern length | press `RECORD` then press `+` or `-`        |
-| Select pattern | hold group then press `+` or `-`            |
-| Erase pattern  | hold `ERASE` and group                      |
+| Function           | Keys                                        |
+| ------------------ | ------------------------------------------- |
+| Time signature     | press `MAIN` + `TEMP` then turn `x` and `y` |
+| Pattern length     | press `RECORD` then press `+` or `-`        |
+| Select pattern     | hold group then press `+` or `-` or numbers |
+| Erase pattern      | hold `ERASE` and group                      |
+| Solo               | hold `FX` and groups                        |
+| Play from start    | press `SHIFT` and `PLAY`                    |
+| Repeat note        | hold `TIMING` and pad                       |
+| Erase notes on pad | press `ERASE` and pad                       |
 
 | Property | Scope   |
 | -------- | ------- |
