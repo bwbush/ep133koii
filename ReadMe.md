@@ -10,7 +10,7 @@ Backups at [ipns://k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42e
 
 | Pattern | Name                                                                                | Signature | Duration |
 | ------- | ----------------------------------------------------------------------------------- | --------: | -------: |
-| `C01`   | [Kalenda Maya](images/P06-C01.jpg)                                                  |       6/4 |       21 |
+| `C01`   | [Kalenda Maya](midi/Kalenda%20maya.mid)                                             |       3/4 |       36 |
 | `C02`   | [L'homme arme](midi/L%27homme%20arme.mid)                                           |       3/4 |       34 |
 | `C03`   | [Dies irae](midi/Dies%20irae.mid)                                                   |       8/8 |       36 |
 | `C04`   | [Antique dance](midi/Antique%20dance.mid)                                           |       4/4 |       22 |
@@ -41,7 +41,7 @@ Other patterns
 
 ### `P05`: Twelve-tone cannon
 
-*Performance:* for first four scenes, transition to next scene at measure 10; for fifth scene, transaction to sixth scene before measure 10.
+*Performance:* for first four scenes, transition to next scene at measure 10; for fifth scene, transition to sixth scene before measure 10.
 
 - [MIDI worksheet](midi/twelve-tone%20cannon.mid)
 - [audio](https://recorder.google.com/907e6e10-9eb9-4be9-b7e8-707febf18ad3)
