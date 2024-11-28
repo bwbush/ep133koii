@@ -35,10 +35,13 @@ Signature: `6/4`
 | `A03`   | [Soukous](midi/soukous.mid)                        | Fig. 7.4  | ![Soukous timeline](images/soukous.png)                       |     | `A04`   | [Rumba](midi/rumba.mid)         | Fig. 7.3  | ![Rumba timeline](images/rumba.png)         |
 | `A05`   | [Bossa-nova](midi/bossa-nova.mid)                  | Fig. 7.6  | ![Bossa-nova timeline](images/bossa-nova.png)                 |     | `A06`   | [Gahu](midi/gahu.mid)           | Fig. 7.5  | ![Gahu timeline](images/gahu.png)           |
 | `A07`   | [Fume-fume](midi/fume-fume.mid)                    | Fig. 10.1 | ![Fume-fume timeline](images/fume-fume.png)                   |     | `A08`   | [Bembé](midi/bembe.mid)         | Fig. 10.2 | ![Bembé timeline](images/bembe.png)         |
-| `A09`   | [Classical ostinato](mid/classical%20ostinato.mid) | Fig. 13.4 | ![Classical ostinato timeline](images/classical-ostinato.png) |     | `A10`   | [Tresillo](midi/tresilo.mid)    | Fig 14.4  | ![Tresilo timeline](images/tresilo.png)     |
-| `A11`   | [Cinquillo](midi/cinquillo.mid)                    | Fig. 14.6 | ![Cinquillo timeline](images/cinquillo.png)                   |     | `A12`   | [Bangu](midi/bangu.mid)         | Fig 14.7  | ![Bangu timeline](images/bangu.png)         |
-| `A13`   | [Standard pattern](midi/standard%20pattern.mid)    | Fig 14.9  | ![Standard pattern timeline](images/standard%20pattern.png)   |     | `A14`   | [Seguiriya](midi/seguiriya.mid) | Fig. 15.4 | ![Seguiriya timeline](images/seguiriya.png) |
-| `A15`   | [Tornada](midi/tornada.mid)                        | Fig. 15.5 | ![Tornada timeline](images/tornada.png)                       |     | `A16`   | [Sorsonet](midi/sorsonet.mid)   | Fig 15.5  | ![Sorsonet timeline](images/sorsonet.png)   |
+| `A09`   | [Classical ostinato](mid/classical%20ostinato.mid) | Fig. 13.4 | ![Classical ostinato timeline](images/classical-ostinato.png) |     | `A10`   | [Tresillo](midi/tresilo.mid)    | Fig. 14.4 | ![Tresilo timeline](images/tresilo.png)     |
+| `A11`   | [Cinquillo](midi/cinquillo.mid)                    | Fig. 14.6 | ![Cinquillo timeline](images/cinquillo.png)                   |     | `A12`   | [Bangu](midi/bangu.mid)         | Fig. 14.7 | ![Bangu timeline](images/bangu.png)         |
+| `A13`   | [Standard pattern](midi/standard%20pattern.mid)    | Fig. 14.9 | ![Standard pattern timeline](images/standard%20pattern.png)   |     | `A14`   | Aksak                           | Fig. 14.5 |, `[2-2-2-3]`                                |
+| `A15`   | [Tornada](midi/tornada.mid)                        | Fig. 15.5 | ![Tornada timeline](images/tornada.png)                       |     | `A16`   | [Sorsonet](midi/sorsonet.mid)   | Fig. 15.5 | ![Sorsonet timeline](images/sorsonet.png)   |
+| `A17`   | Fandango                                           | Fig. 16.9 | `[3-3-3-3]`                                                   |     | `A18`   | Guajira                         | Fig. 16.9 | `[3-3-2-2-2]`                               |
+| `A19`   | [Seguiriya](midi/seguiriya.mid)                    | Fig. 15.4 | ![Seguiriya timeline](images/seguiriya.png)                   |     | `A20`   | Buleria                         | Fig. 16.9 | `start on 2, [4-1-2-2-3]`                   |
+| `A21`   | Soleá                                              | Fig. 16.9 | `start on 2, [3-2-2-2-3]`                                     |     | `A22`   | Bembé shekere                   | Fig. 17.3 | `[2-1-2-1-1-2-1-1-1]`                       |
 
 Other patterns
 - [ ] aksak, `[2-2-2-3]`, Fig. 14.5
