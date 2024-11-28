@@ -24,6 +24,11 @@ Backups at [ipns://k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42e
 
 Toussaint, Godfried T. *[The Geometry of Musical Rhythm : What Makes a “Good” Rhythm Good?](https://search.worldcat.org/title/1112377436)* Second edition, CRC Press, Taylor & Francis Group, 2020.
 
+
+#### `A` Group
+
+Signature: `6/4`
+
 | Pattern | Name                                               | Reference | Timeline                                                      |     | Pattern | Name                            | Reference | Timeline                                    |
 | ------- | -------------------------------------------------- | --------- | ------------------------------------------------------------- | --- | ------- | ------------------------------- | --------- | ------------------------------------------- |
 | `A01`   | [Shiko](midi/shiko.mid)                            | Fig. 7.2  | ![Shiko timeline](images/shiko.png)                           |     | `A02`   | [Son](midi/son.mid)             | Fig. 6.2  | ![Son timeline](images/son.png)             |
@@ -39,12 +44,53 @@ Other patterns
 - [ ] aksak, `[2-2-2-3]`, Fig. 14.5
 
 
+#### `B` Group
+
+Signature: `4/4`
+
+| Number | Name           |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+|-------:|:---------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|      1 | Bossa-1        |  ■ |    |    |  ■ |    |    |  ■ |    |    |    |  ■ |    |    |  ■ |    |    |
+|      2 | Bossa-2        |  ■ |    |    |  ■ |    |    |  ■ |    |    |  ■ |    |    |  ■ |    |    |    |
+|      3 | Bossa-3        |  ■ |    |    |  ■ |    |    |  ■ |    |    |  ■ |    |    |    |  ■ |    |    |
+|      4 | Shiko          |  ■ |    |    |    |  ■ |    |  ■ |    |    |    |  ■ |    |  ■ |    |    |    |
+|      5 | Timini         |  ■ |    |  ■ |    |    |    |  ■ |    |  ■ |    |    |    |  ■ |    |    |    |
+|      6 | Kromanti       |  ■ |    |  ■ |    |    |    |  ■ |    |    |    |  ■ |    |  ■ |    |    |    |
+|      7 | Tuareg         |  ■ |    |    |    |  ■ |    |  ■ |    |  ■ |    |    |    |  ■ |    |    |    |
+|      8 | Tipitina       |  ■ |    |  ■ |    |  ■ |    |    |    |    |  ■ |    |    |    |    |  ■ |    |
+|      9 | Son            |  ■ |    |    |  ■ |    |    |  ■ |    |    |    |  ■ |    |  ■ |    |    |    |
+|     10 | Rumba          |  ■ |    |    |  ■ |    |    |    |  ■ |    |    |  ■ |    |  ■ |    |    |    |
+|     11 | Gahu           |  ■ |    |    |  ■ |    |    |  ■ |    |    |    |  ■ |    |    |    |  ■ |    |
+|     12 | Domba          |  ■ |    |  ■ |    |    |  ■ |    |    |    |  ■ |    |    |    |  ■ |    |    |
+|     13 | Kpatsa         |  ■ |    |    |    |  ■ |    |    |    |  ■ |    |    |  ■ |    |  ■ |    |    |
+|     14 | Rap-X          |  ■ |    |    |    |  ■ |    |    |  ■ |    |  ■ |    |    |  ■ |    |    |    |
+|     15 | Soukous        |  ■ |    |    |  ■ |    |    |  ■ |    |    |    |  ■ |  ■ |    |    |    |    |
+|     16 | Rap-2          |  ■ |    |  ■ |    |    |    |    |  ■ |    |    |  ■ |    |    |    |  ■ |    |
+|     17 | Mambo-1        |  ■ |    |    |  ■ |    |  ■ |    |    |  ■ |    |  ■ |    |    |  ■ |    |    |
+|     18 | Mambo-2        |  ■ |    |  ■ |    |    |  ■ |    |    |  ■ |    |    |  ■ |    |  ■ |    |    |
+|     19 | R-W-B          |  ■ |    |  ■ |    |    |  ■ |    |    |  ■ |    |    |  ■ |    |    |  ■ |    |
+|     20 | Popcorn        |  ■ |    |  ■ |    |  ■ |    |    |  ■ |    |  ■ |    |    |    |    |  ■ |    |
+|     21 | Funky          |  ■ |    |  ■ |    |  ■ |    |    |  ■ |    |  ■ |    |    |  ■ |    |    |    |
+|     22 | Central-Africa |  ■ |    |  ■ |    |  ■ |    |  ■ |    |  ■ |    |    |  ■ |    |    |  ■ |    |
+|     23 | Takoe          |  ■ |    |    |  ■ |    |  ■ |    |    |  ■ |    |  ■ |    |  ■ |    |  ■ |    |
+|     24 | Akom           |  ■ |    |  ■ |    |  ■ |    |  ■ |    |    |  ■ |    |  ■ |    |    |  ■ |    |
+|     25 | Adangme        |  ■ |    |  ■ |    |  ■ |    |  ■ |    |  ■ |    |    |  ■ |    |  ■ |    |    |
+|     26 | Samba          |  ■ |    |  ■ |    |    |  ■ |    |  ■ |    |  ■ |    |    |  ■ |    |  ■ |    |
+|     27 | Ghana          |  ■ |    |  ■ |    |  ■ |    |  ■ |    |    |  ■ |    |  ■ |    |  ■ |    |    |
+|     28 | Bembe-duple    |  ■ |    |    |  ■ |    |    |  ■ |  ■ |    |    |  ■ |    |  ■ |    |    |  ■ |
+|     29 | Oyaa           |  ■ |    |  ■ |    |  ■ |    |  ■ |    |  ■ |    |  ■ |  ■ |    |  ■ |  ■ |    |
+|     30 | Ngbaka         |  ■ |    |  ■ |    |  ■ |    |  ■ |  ■ |    |  ■ |    |  ■ |    |  ■ |  ■ |    |
+|     31 | Ngbaka-Maibo   |  ■ |    |  ■ |    |  ■ |    |  ■ |  ■ |    |  ■ |    |  ■ |    |  ■ |    |  ■ |
+|     32 | Kassa          |  ■ |  ■ |    |  ■ |    |  ■ |  ■ |    |  ■ |    |  ■ |    |  ■ |    |  ■ |    |
+|     33 | Mutuashi       |  ■ |  ■ |    |  ■ |    |  ■ |    |  ■ |  ■ |    |  ■ |    |  ■ |    |  ■ |    |
+|     34 | Rumba-palitos  |  ■ |    |  ■ |  ■ |    |  ■ |    |  ■ |  ■ |    |  ■ |    |  ■ |  ■ |    |  ■ |
+
+
 ### `P05`: Twelve-tone cannon
 
 *Performance:* for first four scenes, transition to next scene at measure 10; for fifth scene, transition to sixth scene before measure 10.
 
-- [MIDI worksheet](midi/twelve-tone%20cannon.mid)
-- [audio](https://recorder.google.com/907e6e10-9eb9-4be9-b7e8-707febf18ad3)
+Signature: `3/4`
 
 | Scene | Description                                       | A     | B     | C     | D   |
 | ----- | ------------------------------------------------- | ----- | ----- | ----- | --- |
@@ -69,8 +115,13 @@ Other patterns
 | `C06`   | Retrograde at standard pattern in four measures plus seguiriya in one measure; followed by theme at soleà in two measures                                          |
 | `C07`   | Theme and inversion together at standard pattern in four measures plus seguiria in one measure; followed by both retrogrades in the same rhythm; followed by theme |
 
+- [MIDI worksheet](midi/twelve-tone%20cannon.mid)
+- [audio](https://recorder.google.com/907e6e10-9eb9-4be9-b7e8-707febf18ad3)
+
 
 ### `P01`: Experiments
+
+Signature: `4/4`
 
 | Scene | Description                            | A     | B     | C     | D     |
 | ----- | -------------------------------------- | ----- | ----- | ----- | ----- |
@@ -94,6 +145,7 @@ Other patterns
 | `D01`   | Industrial beat                   |
 | `D02`   | Clave gahu, length 7              |
 | `D03`   | Clave son, length 7               |
+
 
 ## Reference
 
