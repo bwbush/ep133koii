@@ -48,6 +48,8 @@ Other patterns
 
 Signature: `4/4`
 
+Figure 18.6
+
 | Number | Name           |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
 |-------:|:---------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |      1 | Bossa-1        |  ■ |    |    |  ■ |    |    |  ■ |    |    |    |  ■ |    |    |  ■ |    |    |
@@ -145,6 +147,22 @@ Signature: `4/4`
 | `D01`   | Industrial beat                   |
 | `D02`   | Clave gahu, length 7              |
 | `D03`   | Clave son, length 7               |
+
+
+### `P02`: Experiments
+
+Signature: `4/4`
+
+| Scene | Description     | A     | B     | C     | D     |
+|-------|-----------------|-------|-------|-------|-------|
+| `S01` | Couning rhythms | `A01` | `B01` | `C01` | `D01` |
+
+| Pattern | Description                        |
+|---------|------------------------------------|
+| `A01`   | Fig. 17.7, Reich's clapping music |
+| `B01`   | Two rhythms overlaid              |
+| `C01`   | Melody                            |
+| `D01`   | Counting to 8 in binary           |
 
 
 ## Reference
