@@ -37,14 +37,11 @@ Signature: `6/4`
 | `A07`   | [Fume-fume](midi/fume-fume.mid)                    | Fig. 10.1 | ![Fume-fume timeline](images/fume-fume.png)                   |     | `A08`   | [Bembé](midi/bembe.mid)         | Fig. 10.2 | ![Bembé timeline](images/bembe.png)         |
 | `A09`   | [Classical ostinato](mid/classical%20ostinato.mid) | Fig. 13.4 | ![Classical ostinato timeline](images/classical-ostinato.png) |     | `A10`   | [Tresillo](midi/tresilo.mid)    | Fig. 14.4 | ![Tresilo timeline](images/tresilo.png)     |
 | `A11`   | [Cinquillo](midi/cinquillo.mid)                    | Fig. 14.6 | ![Cinquillo timeline](images/cinquillo.png)                   |     | `A12`   | [Bangu](midi/bangu.mid)         | Fig. 14.7 | ![Bangu timeline](images/bangu.png)         |
-| `A13`   | [Standard pattern](midi/standard%20pattern.mid)    | Fig. 14.9 | ![Standard pattern timeline](images/standard%20pattern.png)   |     | `A14`   | Aksak                           | Fig. 14.5 |, `[2-2-2-3]`                                |
+| `A13`   | [Standard pattern](midi/standard%20pattern.mid)    | Fig. 14.9 | ![Standard pattern timeline](images/standard%20pattern.png)   |     | `A14`   | Aksak                           | Fig. 14.5 | `[2-2-2-3]`                                 |
 | `A15`   | [Tornada](midi/tornada.mid)                        | Fig. 15.5 | ![Tornada timeline](images/tornada.png)                       |     | `A16`   | [Sorsonet](midi/sorsonet.mid)   | Fig. 15.5 | ![Sorsonet timeline](images/sorsonet.png)   |
 | `A17`   | Fandango                                           | Fig. 16.9 | `[3-3-3-3]`                                                   |     | `A18`   | Guajira                         | Fig. 16.9 | `[3-3-2-2-2]`                               |
-| `A19`   | [Seguiriya](midi/seguiriya.mid)                    | Fig. 15.4 | ![Seguiriya timeline](images/seguiriya.png)                   |     | `A20`   | Buleria                         | Fig. 16.9 | `start on 2, [4-1-2-2-3]`                   |
-| `A21`   | Soleá                                              | Fig. 16.9 | `start on 2, [3-2-2-2-3]`                                     |     | `A22`   | Bembé shekere                   | Fig. 17.3 | `[2-1-2-1-1-2-1-1-1]`                       |
-
-Other patterns
-- [ ] aksak, `[2-2-2-3]`, Fig. 14.5
+| `A19`   | [Seguiriya](midi/seguiriya.mid)                    | Fig. 15.4 | ![Seguiriya timeline](images/seguiriya.png)                   |     | `A20`   | Buleria                         | Fig. 16.9 | `@2 [4-1-2-2-3]`                            |
+| `A21`   | Soleá                                              | Fig. 16.9 | `@2 [3-2-2-2-3]`                                              |     | `A22`   | Bembé shekere                   | Fig. 17.3 | `[2-1-2-1-1-2-1-1-1]`                       |
 
 
 #### `B` Group
@@ -170,20 +167,32 @@ Signature: `4/4`
 
 ## Reference
 
-| Function           | Keys                                        |
-| ------------------ | ------------------------------------------- |
-| Time signature     | press `MAIN` + `TEMP` then turn `x` and `y` |
-| Pattern length     | press `RECORD` then press `+` or `-`        |
-| Select pattern     | hold group then press `+` or `-` or numbers |
-| Erase pattern      | hold `ERASE` and group                      |
-| Solo               | hold `FX` and groups                        |
-| Play from start    | press `SHIFT` and `PLAY`                    |
-| Repeat note        | hold `TIMING` and pad                       |
-| Erase notes on pad | press `ERASE` and pad                       |
+| Function           | Keys                                                                       |
+| ------------------ | -------------------------------------------------------------------------- |
+| Time signature     | press `MAIN` + `TEMP` then turn `x` and `y`                                |
+| Pattern length     | press `RECORD` then press `+` or `-`                                       |
+| Select pattern     | hold group then press `+` or `-` or numbers                                |
+| Erase pattern      | hold `ERASE` and group                                                     |
+| Solo               | hold `FX` and groups                                                       |
+| Play from start    | press `SHIFT` and `PLAY`                                                   |
+| Repeat note        | hold `TIMING` and pad                                                      |
+| Erase notes on pad | press `ERASE` and pad                                                      |
+| Reset fader        | press `SHIFT` and `FADER`                                                  |
+| Nudge note         | hold 'SHIFT' and pad then press `+` or `-`                                 |
+| Change octave      | hold `KEYS` then press `+` or `-`                                          |
+| Duration           | hold `SHIFT` and turn `y`                                                  |
+| Precision          | hold `SHIFT` and `+` or `-` for high precision changes on most recent knob |
 
 | Property | Scope   |
 | -------- | ------- |
 | Tempo    | Project |
+
+
+### Tricks
+
+- Temporarily go into system menu to change knobs without affecting function, then leave system.
+- Use `y` knob on MIDI setting for sound in order to transpose notes.
+- Hold `SHIFT` when moving between effects so that intermediate effects aren't activated along the way.
 
 
 ## Resources
