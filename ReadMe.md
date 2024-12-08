@@ -19,20 +19,32 @@ Backups at [ipns://k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42e
 
 ## Reference
 
-| Function           | Keys                                        |
-| ------------------ | ------------------------------------------- |
-| Time signature     | press `MAIN` + `TEMP` then turn `x` and `y` |
-| Pattern length     | press `RECORD` then press `+` or `-`        |
-| Select pattern     | hold group then press `+` or `-` or numbers |
-| Erase pattern      | hold `ERASE` and group                      |
-| Solo               | hold `FX` and groups                        |
-| Play from start    | press `SHIFT` and `PLAY`                    |
-| Repeat note        | hold `TIMING` and pad                       |
-| Erase notes on pad | press `ERASE` and pad                       |
+| Function           | Keys                                                                       |
+| ------------------ | -------------------------------------------------------------------------- |
+| Time signature     | press `MAIN` + `TEMP` then turn `x` and `y`                                |
+| Pattern length     | press `RECORD` then press `+` or `-`                                       |
+| Select pattern     | hold group then press `+` or `-` or numbers                                |
+| Erase pattern      | hold `ERASE` and group                                                     |
+| Solo               | hold `FX` and groups                                                       |
+| Play from start    | press `SHIFT` and `PLAY`                                                   |
+| Repeat note        | hold `TIMING` and pad                                                      |
+| Erase notes on pad | press `ERASE` and pad                                                      |
+| Reset fader        | press `SHIFT` and `FADER`                                                  |
+| Nudge note         | hold 'SHIFT' and pad then press `+` or `-`                                 |
+| Change octave      | hold `KEYS` then press `+` or `-`                                          |
+| Duration           | hold `SHIFT` and turn `y`                                                  |
+| Precision          | hold `SHIFT` and `+` or `-` for high precision changes on most recent knob |
 
 | Property | Scope   |
 | -------- | ------- |
 | Tempo    | Project |
+
+
+### Tricks
+
+- Temporarily go into system menu to change knobs without affecting function, then leave system.
+- Use `y` knob on MIDI setting for sound in order to transpose notes.
+- Hold `SHIFT` when moving between effects so that intermediate effects aren't activated along the way.
 
 
 ## Resources
