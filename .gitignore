@@ -3,6 +3,6 @@ tmp/
 *.log
 *.sw?
 .obsidian/
-Dirt-Samples/
+raw/
 backups/
 samples/
