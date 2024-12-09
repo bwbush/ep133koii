@@ -19,7 +19,7 @@
 ## Backups
 
 - Location: [ipns://k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42ej](http://ipfs.io/ipns/k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42ej).
-- Most recent verified backup: [20241208a.pak](https://ipfs.io/ipns/k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42ej/20241208a.pak)
+- Most recent verified backup: [20241208b.pak](https://ipfs.io/ipns/k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42ej/20241208b.pak)
 
 
 ## Reference
