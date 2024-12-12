@@ -28,8 +28,8 @@ Signature: `3/4`
 | `C07`   | Theme and inversion together at standard pattern in four measures plus seguiria in one measure; followed by both retrogrades in the same rhythm; followed by theme |
 
 - [Program](P05.tar)
-- [MIDI worksheet](twelve-tone%20cannon.mid)
-- [audio](https://recorder.google.com/907e6e10-9eb9-4be9-b7e8-707febf18ad3)
+- [MIDI worksheet](twelve-tone%20canon.mid)
+- [audio](twelve-tone%20canon.mp3)
 
 
 ## Pads
