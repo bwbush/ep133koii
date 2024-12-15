@@ -7,7 +7,9 @@ Toussaint, Godfried T. *[The Geometry of Musical Rhythm : What Makes a â€œGoodâ€
 
 ## `A` Group
 
-Signature: `6/4`
+- Scene: `S01`
+- Signature: `6/4`
+- Audio: [Rhythms S01](https://ipfs.io/ipfs/Qmb8hsdKuEpSLERQiZ1tzuY3UMx3vvh8xRY9TYBcGomcU7)
 
 | Pattern | Name                                           | Reference | Timeline                                               |     | Pattern | Name                                  | Reference | Timeline                           |
 | ------- | ---------------------------------------------- | --------- | ------------------------------------------------------ | --- | ------- | ------------------------------------- | --------- | ---------------------------------- |
@@ -26,9 +28,10 @@ Signature: `6/4`
 
 ## `B` Group
 
-Signature: `4/4`
-
-Figure 18.6
+- Scene: `S02`
+- Signature: `4/4`
+- Audio: [Rhythms S02](https://ipfs.io/ipfs/QmeTwtoLGbBbgoX7T32QLbVrFn8BU7mUzvoAgVixxAPTN9)
+- Source: Figure 18.6
 
 | Number | Name                                      |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  |
 | -----: | :---------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |

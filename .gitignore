@@ -3,6 +3,6 @@ tmp/
 *.log
 *.sw?
 .obsidian/
+ipfs/
 raw/
-backup/
 samples/

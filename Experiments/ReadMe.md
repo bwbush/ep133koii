@@ -5,28 +5,28 @@
 
 Signature: `4/4`
 
-| Scene | Description                            | A     | B     | C     | D     |
-| ----- | -------------------------------------- | ----- | ----- | ----- | ----- |
-| `S01` | A plucking and industrial compositions | `A01` | `B01` | `C01` | `D01` |
-| `S02` | Fractal of basic rhythms               | `A03` | `B03` | `C02` | `D02` |
-| `S03` | Fractal of clave son                   | `A03` | `B04` | `C03` | `D03` |
-| `S04` | Melody with clave son                  | `A05` | `-`   | `C04` | `-`   |
+| Scene | Description                                                                                     | A     | B     | C     | D     | Bars |
+| ----- | ----------------------------------------------------------------------------------------------- | ----- | ----- | ----- | ----- | ---: |
+| `S01` | [Plucking industrial](https://ipfs.io/ipfs/QmZWc1ZaMqo3ahEdo3xCWyghATqqMPtWSorGR3531gxTM1)      | `A01` | `B01` | `C01` | `D01` |    2 |
+| `S02` | [Fractal of basic rhythms](https://ipfs.io/ipfs/QmauUz2scytqT56BsyvqmJEEk2gGXmvpFz1iaxXP24mA9f) | `A03` | `B03` | `C02` | `D02` |  210 |
+| `S03` | [Fractal of clave son](https://ipfs.io/ipfs/QmVs18VH8WjLnDy5nvzz617KLCNKh11xjTdR3eKfGh4oGS)     | `A03` | `B04` | `C03` | `D03` |  210 |
+| `S04` | [Melody with clave son](https://ipfs.io/ipfs/QmZuraxaiXwL7n8JWZ66tdrpDG88XGg1ixnmBRkg3SWXMb)    | `A05` | `-`   | `C04` | `-`   |    6 |
 
-| Pattern | Description                       |
-| ------- | --------------------------------- |
-| `A01`   | Pluck and clap                    |
-| `A03`   | Clave son, length 2               |
-| `A05`   | Clave son, length 2 then length 1 |
-| `B01`   | Base pizzicato                    |
-| `B03`   | Clave shiko, length 3             |
-| `B04`   | Clave son, length 3               |
-| `C01`   | Plucked melody                    |
-| `C02`   | Clave soukous, length 5           |
-| `C03`   | Clave son, length 5               |
-| `C04`   | Melody                            |
-| `D01`   | Industrial beat                   |
-| `D02`   | Clave gahu, length 7              |
-| `D03`   | Clave son, length 7               |
+| Pattern | Description                       | Bars |
+| ------- | --------------------------------- | ---: |
+| `A01`   | Pluck and clap                    |    2 |
+| `A03`   | Clave son, length 2               |    2 |
+| `A05`   | Clave son, length 2 then length 1 |    3 |
+| `B01`   | Base pizzicato                    |    2 |
+| `B03`   | Clave shiko, length 3             |    3 |
+| `B04`   | Clave son, length 3               |    3 |
+| `C01`   | Plucked melody                    |    2 |
+| `C02`   | Clave soukous, length 5           |    5 |
+| `C03`   | Clave son, length 5               |    5 |
+| `C04`   | Melody                            |    2 |
+| `D01`   | Industrial beat                   |    2 |
+| `D02`   | Clave gahu, length 7              |    7 |
+| `D03`   | Clave son, length 7               |    7 |
 
 |       | `A` Pads |       |     |       | `B` Pads |       |     |       | `C` Pads |       |     |       | `D` Pads |       |
 | :---: | :------: | :---: | :-: | :---: | :------: | :---: | :-: | :---: | :------: | :---: | :-: | :---: | :------: | :---: |
@@ -42,16 +42,16 @@ Signature: `4/4`
 
 Signature: `4/4`
 
-| Scene | Description     | A     | B     | C     | D     |
-|-------|-----------------|-------|-------|-------|-------|
-| `S01` | Couning rhythms | `A01` | `B01` | `C01` | `D01` |
+| Scene | Description                                                                             | A     | B     | C     | D     | Bars |
+| ----- | --------------------------------------------------------------------------------------- | ----- | ----- | ----- | ----- | ---: |
+| `S01` | [Counting rhythms](https://ipfs.io/ipfs/QmZASoL9d7QpxSCbe7ZaWz4ULi1DtVYrehJTw7ernmLLZg) | `A01` | `B01` | `C01` | `D01` |  120 |
 
-| Pattern | Description                        |
-|---------|------------------------------------|
-| `A01`   | Fig. 17.7, Reich's clapping music |
-| `B01`   | Two rhythms overlaid              |
-| `C01`   | Melody                            |
-| `D01`   | Counting to 8 in binary           |
+| Pattern | Description                       | Bars |
+| ------- | --------------------------------- | ---: |
+| `A01`   | Fig. 17.7, Reich's clapping music |    3 |
+| `B01`   | Two rhythms overlaid              |    3 |
+| `C01`   | Melody                            |   10 |
+| `D01`   | Counting to 8 in binary           |    8 |
 
 |       | `A` Pads |       |     |       | `B` Pads |       |     |       | `C` Pads |       |     |       | `D` Pads |       |
 | :---: | :------: | :---: | :-: | :---: | :------: | :---: | :-: | :---: | :------: | :---: | :-: | :---: | :------: | :---: |
@@ -65,36 +65,36 @@ Signature: `4/4`
 
 ## Program 3
 
-| Scene | Description  | A     | B     | C     | D     |
-| ----- | ------------ | ----- | ----- | ----- | ----- |
-| `S01` | Industrial   | `A01` | `B01` | `C01` | `D01` |
-| `S02` | Atmospheric  | `A02` | `B02` | `C02` | `D02` |
-| `S03` | Dance        | `A04` | `B03` | `C03` | `D03` |
-| `S04` | Modern drama | `A03` | `B04` | `C04` | `D04` |
-| `S05` | Exotic dance | `A05` | `B05` | `C05` | `D05` |
+| Scene | Description                                                                         | A     | B     | C     | D     | Signature | Bars |
+| ----- | ----------------------------------------------------------------------------------- | ----- | ----- | ----- | ----- | --------: | ---: |
+| `S01` | [Industrial](https://ipfs.io/ipfs/QmWaKpS4EiKjYNxvnEqDro718Thha71ZFv6kpJUJnRcBiS)   | `A01` | `B01` | `C01` | `D01` |     `4/4` |   60 |
+| `S02` | [Atmospheric](https://ipfs.io/ipfs/QmVR6q5h7ksrz4tzd1aBtDb6BdmrMqrxtWZ71W8q8tCtPk)  | `A02` | `B02` | `C02` | `D02` |     `4/4` | 4620 |
+| `S03` | [Dance](https://ipfs.io/ipfs/Qmcq5tnfvX6z9tm1KtVLrc3xZ3BFtM4hxS4gLuYhzEpMHw)        | `A04` | `B03` | `C03` | `D03` |     `3/4` |    6 |
+| `S04` | [Modern drama](https://ipfs.io/ipfs/QmPRqqHKA8e46UsV5AY7uJt9GbAQCUqyk4cLcZxBtcs2eK) | `A03` | `B04` | `C04` | `D04` |     `3/4` |  240 |
+| `S05` | [Exotic dance](https://ipfs.io/ipfs/QmdgvZ3RvmzndcoVeDnRonRKRG7CJ1vf55H15wHkJMvyGF) | `A05` | `B05` | `C05` | `D05` |     `4/4` |   10 |
 
-| Pattern | Description              |
-| ------- | ------------------------ |
-| `A01`   | Industrial melody        |
-| `A02`   | Long echo                |
-| `A03`   | Tap rhythm               |
-| `A04`   | Clave rhythm             |
-| `A05`   | Standard drum set rhythm |
-| `B01`   | Industrial plucking      |
-| `B02`   | Long bowing              |
-| `B03`   | Occasional shake         |
-| `B04`   | Melodic plucking         |
-| `B05`   | Shaker                   |
-| `C01`   | Industrial base          |
-| `C02`   | Long synth               |
-| `C03`   | Occasional rough pulse   |
-| `C04`   | Repetitious bowing       |
-| `C05`   | Pulse rhythm             |
-| `D01`   | Industrial machinery     |
-| `D02`   | Occasional clap          |
-| `D03`   | Static rhythm            |
-| `D04`   | Tooting melody           |
-| `D05`   | Plucked melody           |
+| Pattern | Description              | Bars |
+| ------- | ------------------------ | ---: |
+| `A01`   | Industrial melody        |    3 |
+| `A02`   | Long echo                |    3 |
+| `A03`   | Tap rhythm               |    1 |
+| `A04`   | Clave rhythm             |    1 |
+| `A05`   | Standard drum set rhythm |    1 |
+| `B01`   | Industrial plucking      |    4 |
+| `B02`   | Long bowing              |   20 |
+| `B03`   | Occasional shake         |    2 |
+| `B04`   | Melodic plucking         |    5 |
+| `B05`   | Shaker                   |    1 |
+| `C01`   | Industrial base          |   10 |
+| `C02`   | Long synth               |   14 |
+| `C03`   | Occasional rough pulse   |    3 |
+| `C04`   | Repetitious bowing       |   12 |
+| `C05`   | Pulse rhythm             |    2 |
+| `D01`   | Industrial machinery     |    1 |
+| `D02`   | Occasional clap          |   11 |
+| `D03`   | Static rhythm            |    1 |
+| `D04`   | Tooting melody           |    3 |
+| `D05`   | Plucked melody           |    5 |
 
 - [Program](P03.tar)
 

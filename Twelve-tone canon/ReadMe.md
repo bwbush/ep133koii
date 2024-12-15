@@ -29,7 +29,7 @@ Signature: `3/4`
 
 - [Program](P05.tar)
 - [MIDI worksheet](twelve-tone%20canon.mid)
-- [audio](twelve-tone%20canon.mp3)
+- [audio](https://ipfs.io/ipfs/QmNPQPyaRJoWVDYZsXzVhX6bHAvPG3hdKFPdtxex3zcfdX)
 
 
 ## Pads
