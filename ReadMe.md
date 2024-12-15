@@ -40,9 +40,10 @@
 | Duration           | hold `SHIFT` and turn `y`                                                  |
 | Precision          | hold `SHIFT` and `+` or `-` for high precision changes on most recent knob |
 
-| Property | Scope   |
-| -------- | ------- |
-| Tempo    | Project |
+| Property  | Scope   |
+| --------- | ------- |
+| Tempo     | Project |
+| Signature | Scene   |
 
 
 ### Tricks
