@@ -12,14 +12,14 @@
 | `P05`   | [Twelve-tone canon](Twelve-tone%20canon/ReadMe.md)                                 |
 | `P06`   | [Early music](Early%20music/ReadMe.md)                                             |
 | `P07`   | [The geometry of musical rhythm](The%20geometry%20of%20musical%20rhythm/ReadMe.md) |
-| `P08`   | Factory default for `P03`                                                          |
+| `P08`   | Factory default for `P03` (reserved for Dillon)                                    |
 | `P09`   | Empty                                                                              |
 
 
 ## Backups
 
 - Location: [ipns://k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42ej](http://ipfs.io/ipns/k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42ej/backup/).
-- Most recent verified backup: [20241215a.pak](https://ipfs.io/ipns/k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42ej/backup/20241215a.pak)
+- Most recent verified backup: [20241226a.pak](https://ipfs.io/ipns/k51qzi5uqu5dgmnb25n6li2414auwyf4x7cluowbhlzn4c6x0abdy222xu42ej/backup/20241226a.pak)
 
 
 ## Reference
