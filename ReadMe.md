@@ -71,3 +71,11 @@
      - [Master drum key](https://cdn.shopify.com/s/files/1/0559/8055/6373/files/Master-Drum-Key_R2.pdf)
  - Tutorials
     - [Teenage engineering KO II EP-133 - Deep dive tutorial guide](https://youtu.be/czGfzmni7q4)
+    - Son Wu
+        1. [Scenes & patterns](https://youtu.be/zLFdNBGX8TU)
+        2. [Sound & editing](https://youtu.be/HdPz95s09qs)
+        3. [Fader & groups](https://youtu.be/hrFvTYP7Tho)
+        4. [Sampling & chopping](https://youtu.be/Lvt-ZWHHBnA)
+        5. [Sequencer](https://youtu.be/DZyT_pFaEcU)
+        6. [FX & compressor](https://youtu.be/g-ijBJUuMH4)
+        7. [Copy, paste, & erase](https://youtu.be/L8TcNWPXC8o)
