@@ -45,7 +45,7 @@ Signature: `4/4`
 | Scene | Description                                                                             | A     | B     | C     | D     | Bars | Tempo | Timing |
 | ----- | --------------------------------------------------------------------------------------- | ----- | ----- | ----- | ----- | ---: | ----: | -----: |
 | `S01` | [Counting rhythms](https://ipfs.io/ipfs/QmZASoL9d7QpxSCbe7ZaWz4ULi1DtVYrehJTw7ernmLLZg) | `A01` | `B01` | `C01` | `D01` |  120 |   120 |     16 |
-| `S02` | [Jazzy circus](https://ipfs/io/ipfs/QmPA5aUhBpgssoQAaAUgX5hJFwZN9ZbT12yWBq1e5Ux8WS)     | `A03` | `B02` | `C02` | `---` |    4 |    75 |     8T |
+| `S02` | [Jazzy circus](https://ipfs.io/ipfs/QmPA5aUhBpgssoQAaAUgX5hJFwZN9ZbT12yWBq1e5Ux8WS)     | `A03` | `B02` | `C02` | `---` |    4 |    75 |     8T |
 
 | Pattern | Description                       | Bars |
 | ------- | --------------------------------- | ---: |
